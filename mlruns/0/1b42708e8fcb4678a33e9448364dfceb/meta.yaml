@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/1b42708e8fcb4678a33e9448364dfceb/artifacts
+end_time: 1702139924281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b42708e8fcb4678a33e9448364dfceb
+run_name: dashing-lark-950
+run_uuid: 1b42708e8fcb4678a33e9448364dfceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139921398
+status: 3
+tags: []
+user_id: nico_

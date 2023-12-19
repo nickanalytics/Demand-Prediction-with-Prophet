@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/fb5f135fa9f14a6297b6a9162dde2d10/artifacts
+end_time: 1702839944854
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: fb5f135fa9f14a6297b6a9162dde2d10
+run_name: silent-sponge-689
+run_uuid: fb5f135fa9f14a6297b6a9162dde2d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839942143
+status: 3
+tags: []
+user_id: nico_

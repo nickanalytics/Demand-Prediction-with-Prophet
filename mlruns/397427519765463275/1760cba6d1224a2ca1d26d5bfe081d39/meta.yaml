@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/1760cba6d1224a2ca1d26d5bfe081d39/artifacts
+end_time: 1702839991735
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 1760cba6d1224a2ca1d26d5bfe081d39
+run_name: unique-skunk-529
+run_uuid: 1760cba6d1224a2ca1d26d5bfe081d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839988898
+status: 3
+tags: []
+user_id: nico_

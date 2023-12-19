@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/1dc2826ca11049f39b2ae190f946b878/artifacts
+end_time: 1702139726564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dc2826ca11049f39b2ae190f946b878
+run_name: traveling-cat-493
+run_uuid: 1dc2826ca11049f39b2ae190f946b878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139723792
+status: 3
+tags: []
+user_id: nico_

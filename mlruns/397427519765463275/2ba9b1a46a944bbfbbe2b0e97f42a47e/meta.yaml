@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/2ba9b1a46a944bbfbbe2b0e97f42a47e/artifacts
+end_time: 1702839935248
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 2ba9b1a46a944bbfbbe2b0e97f42a47e
+run_name: rogue-gnat-759
+run_uuid: 2ba9b1a46a944bbfbbe2b0e97f42a47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839932313
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/c2b749c661844e46946828dc3094cca2/artifacts
+end_time: 1702840230687
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: c2b749c661844e46946828dc3094cca2
+run_name: casual-gnat-935
+run_uuid: c2b749c661844e46946828dc3094cca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840227955
+status: 3
+tags: []
+user_id: nico_

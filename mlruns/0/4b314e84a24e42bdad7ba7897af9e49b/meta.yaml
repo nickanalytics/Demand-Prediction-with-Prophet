@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/4b314e84a24e42bdad7ba7897af9e49b/artifacts
+end_time: 1702139767434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b314e84a24e42bdad7ba7897af9e49b
+run_name: sassy-shark-160
+run_uuid: 4b314e84a24e42bdad7ba7897af9e49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139764579
+status: 3
+tags: []
+user_id: nico_

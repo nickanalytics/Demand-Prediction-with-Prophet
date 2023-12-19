@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/36a3bc1cc11848708447998829d4f5a4/artifacts
+end_time: 1702139933865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a3bc1cc11848708447998829d4f5a4
+run_name: industrious-roo-17
+run_uuid: 36a3bc1cc11848708447998829d4f5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139930756
+status: 3
+tags: []
+user_id: nico_

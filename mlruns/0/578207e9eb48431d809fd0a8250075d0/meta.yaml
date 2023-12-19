@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/578207e9eb48431d809fd0a8250075d0/artifacts
+end_time: 1702139757502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 578207e9eb48431d809fd0a8250075d0
+run_name: thundering-koi-925
+run_uuid: 578207e9eb48431d809fd0a8250075d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139754527
+status: 3
+tags: []
+user_id: nico_

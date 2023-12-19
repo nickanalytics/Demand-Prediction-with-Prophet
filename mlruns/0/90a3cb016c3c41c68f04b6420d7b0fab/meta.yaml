@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/90a3cb016c3c41c68f04b6420d7b0fab/artifacts
+end_time: 1702139962984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90a3cb016c3c41c68f04b6420d7b0fab
+run_name: incongruous-wolf-106
+run_uuid: 90a3cb016c3c41c68f04b6420d7b0fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139959844
+status: 3
+tags: []
+user_id: nico_

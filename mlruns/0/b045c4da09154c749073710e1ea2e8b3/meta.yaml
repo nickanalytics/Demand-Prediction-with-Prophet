@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/b045c4da09154c749073710e1ea2e8b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b045c4da09154c749073710e1ea2e8b3
+run_name: delicate-stag-462
+run_uuid: b045c4da09154c749073710e1ea2e8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702896079908
+status: 1
+tags: []
+user_id: nico_

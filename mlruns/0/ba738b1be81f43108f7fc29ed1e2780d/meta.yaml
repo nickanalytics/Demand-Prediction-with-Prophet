@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/ba738b1be81f43108f7fc29ed1e2780d/artifacts
+end_time: 1702139874820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba738b1be81f43108f7fc29ed1e2780d
+run_name: clean-trout-285
+run_uuid: ba738b1be81f43108f7fc29ed1e2780d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139872097
+status: 3
+tags: []
+user_id: nico_

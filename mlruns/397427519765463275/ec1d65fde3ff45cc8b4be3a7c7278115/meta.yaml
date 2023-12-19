@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/ec1d65fde3ff45cc8b4be3a7c7278115/artifacts
+end_time: 1702840088162
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: ec1d65fde3ff45cc8b4be3a7c7278115
+run_name: suave-fowl-188
+run_uuid: ec1d65fde3ff45cc8b4be3a7c7278115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840085319
+status: 3
+tags: []
+user_id: nico_

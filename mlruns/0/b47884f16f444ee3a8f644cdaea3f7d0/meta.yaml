@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/b47884f16f444ee3a8f644cdaea3f7d0/artifacts
+end_time: 1702139953402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b47884f16f444ee3a8f644cdaea3f7d0
+run_name: nosy-bear-672
+run_uuid: b47884f16f444ee3a8f644cdaea3f7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139950366
+status: 3
+tags: []
+user_id: nico_

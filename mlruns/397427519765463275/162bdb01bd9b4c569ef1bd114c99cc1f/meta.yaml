@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/162bdb01bd9b4c569ef1bd114c99cc1f/artifacts
+end_time: 1702840012125
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 162bdb01bd9b4c569ef1bd114c99cc1f
+run_name: bemused-boar-916
+run_uuid: 162bdb01bd9b4c569ef1bd114c99cc1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840009073
+status: 3
+tags: []
+user_id: nico_

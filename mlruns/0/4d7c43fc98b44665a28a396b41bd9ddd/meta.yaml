@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/4d7c43fc98b44665a28a396b41bd9ddd/artifacts
+end_time: 1702139986020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d7c43fc98b44665a28a396b41bd9ddd
+run_name: stately-stag-328
+run_uuid: 4d7c43fc98b44665a28a396b41bd9ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139983042
+status: 3
+tags: []
+user_id: nico_

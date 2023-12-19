@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/55a29fa1a5a04034ac8d4daa96cedae2/artifacts
+end_time: 1702139754090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55a29fa1a5a04034ac8d4daa96cedae2
+run_name: amazing-finch-169
+run_uuid: 55a29fa1a5a04034ac8d4daa96cedae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139751257
+status: 3
+tags: []
+user_id: nico_

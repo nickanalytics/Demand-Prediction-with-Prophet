@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/f9bc7abed64a4f4496d72eb8a7655075/artifacts
+end_time: 1702840025681
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: f9bc7abed64a4f4496d72eb8a7655075
+run_name: unruly-sow-313
+run_uuid: f9bc7abed64a4f4496d72eb8a7655075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840022800
+status: 3
+tags: []
+user_id: nico_

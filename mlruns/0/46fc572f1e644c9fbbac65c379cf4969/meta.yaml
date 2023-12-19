@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/46fc572f1e644c9fbbac65c379cf4969/artifacts
+end_time: 1702140032678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46fc572f1e644c9fbbac65c379cf4969
+run_name: nimble-flea-60
+run_uuid: 46fc572f1e644c9fbbac65c379cf4969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140029764
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/93f48ffe2e6949789c4303debcf48988/artifacts
+end_time: 1702140051058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93f48ffe2e6949789c4303debcf48988
+run_name: bald-lark-458
+run_uuid: 93f48ffe2e6949789c4303debcf48988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140048188
+status: 3
+tags: []
+user_id: nico_

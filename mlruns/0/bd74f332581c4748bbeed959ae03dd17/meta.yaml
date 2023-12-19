@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/bd74f332581c4748bbeed959ae03dd17/artifacts
+end_time: 1702139713746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd74f332581c4748bbeed959ae03dd17
+run_name: rare-sheep-480
+run_uuid: bd74f332581c4748bbeed959ae03dd17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139710743
+status: 3
+tags: []
+user_id: nico_

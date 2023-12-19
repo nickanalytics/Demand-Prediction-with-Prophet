@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/f1085b98388648cca4d1d15f3729503f/artifacts
+end_time: 1702140029481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1085b98388648cca4d1d15f3729503f
+run_name: auspicious-fowl-664
+run_uuid: f1085b98388648cca4d1d15f3729503f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140026704
+status: 3
+tags: []
+user_id: nico_

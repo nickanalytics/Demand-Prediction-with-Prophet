@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/6b6783beb11f43738d406b41641551fb/artifacts
+end_time: 1702839964832
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 6b6783beb11f43738d406b41641551fb
+run_name: puzzled-moose-941
+run_uuid: 6b6783beb11f43738d406b41641551fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839961875
+status: 3
+tags: []
+user_id: nico_

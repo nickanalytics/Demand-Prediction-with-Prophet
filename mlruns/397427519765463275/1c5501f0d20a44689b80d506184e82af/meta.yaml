@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/1c5501f0d20a44689b80d506184e82af/artifacts
+end_time: 1702839918507
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 1c5501f0d20a44689b80d506184e82af
+run_name: smiling-goose-794
+run_uuid: 1c5501f0d20a44689b80d506184e82af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839915491
+status: 3
+tags: []
+user_id: nico_

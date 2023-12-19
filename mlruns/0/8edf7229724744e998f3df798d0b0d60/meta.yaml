@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/8edf7229724744e998f3df798d0b0d60/artifacts
+end_time: 1702139902896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8edf7229724744e998f3df798d0b0d60
+run_name: rambunctious-cub-88
+run_uuid: 8edf7229724744e998f3df798d0b0d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139900203
+status: 3
+tags: []
+user_id: nico_

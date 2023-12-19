@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/0afd40de0ef441bab9b4e554ca2f9d2a/artifacts
+end_time: 1702839901744
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 0afd40de0ef441bab9b4e554ca2f9d2a
+run_name: casual-fly-724
+run_uuid: 0afd40de0ef441bab9b4e554ca2f9d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839898702
+status: 3
+tags: []
+user_id: nico_

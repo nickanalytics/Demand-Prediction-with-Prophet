@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/2b03f25223c54cff8850d925a89b2291/artifacts
+end_time: 1702139808575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b03f25223c54cff8850d925a89b2291
+run_name: abundant-cow-578
+run_uuid: 2b03f25223c54cff8850d925a89b2291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139805562
+status: 3
+tags: []
+user_id: nico_

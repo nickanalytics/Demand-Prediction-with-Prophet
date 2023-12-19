@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/fdad6bafab754b57aa4cd1e240faf45e/artifacts
+end_time: 1702139979846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdad6bafab754b57aa4cd1e240faf45e
+run_name: clean-colt-949
+run_uuid: fdad6bafab754b57aa4cd1e240faf45e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139976860
+status: 3
+tags: []
+user_id: nico_

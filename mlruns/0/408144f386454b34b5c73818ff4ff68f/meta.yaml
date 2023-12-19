@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/408144f386454b34b5c73818ff4ff68f/artifacts
+end_time: 1702139821898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 408144f386454b34b5c73818ff4ff68f
+run_name: youthful-shrike-252
+run_uuid: 408144f386454b34b5c73818ff4ff68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139818993
+status: 3
+tags: []
+user_id: nico_

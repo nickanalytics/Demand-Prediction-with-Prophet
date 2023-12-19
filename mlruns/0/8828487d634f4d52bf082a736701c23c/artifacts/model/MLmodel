@@ -1,0 +1,15 @@
+artifact_path: model
+flavors:
+  python_function:
+    cloudpickle_version: 2.2.1
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.5
+mlflow_version: 2.8.1
+model_size_bytes: 7759
+model_uuid: e809bac2613944ad9d51e93e4240b002
+run_id: 8828487d634f4d52bf082a736701c23c
+utc_time_created: '2023-12-09 16:38:57.704066'

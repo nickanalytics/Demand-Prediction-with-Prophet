@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/3d1157e2c8c34f9e86b28adeb354a32f/artifacts
+end_time: 1702139976660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d1157e2c8c34f9e86b28adeb354a32f
+run_name: unleashed-flea-79
+run_uuid: 3d1157e2c8c34f9e86b28adeb354a32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139973540
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/9280224816d94a4cbc5374343d6bf1fa/artifacts
+end_time: 1702139966226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9280224816d94a4cbc5374343d6bf1fa
+run_name: powerful-frog-148
+run_uuid: 9280224816d94a4cbc5374343d6bf1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139963227
+status: 3
+tags: []
+user_id: nico_

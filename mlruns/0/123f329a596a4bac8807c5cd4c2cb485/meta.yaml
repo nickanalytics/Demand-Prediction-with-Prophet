@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/123f329a596a4bac8807c5cd4c2cb485/artifacts
+end_time: 1702140057339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 123f329a596a4bac8807c5cd4c2cb485
+run_name: judicious-shrew-65
+run_uuid: 123f329a596a4bac8807c5cd4c2cb485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140054454
+status: 3
+tags: []
+user_id: nico_

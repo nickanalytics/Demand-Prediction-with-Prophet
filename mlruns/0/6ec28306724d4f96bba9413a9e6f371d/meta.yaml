@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/6ec28306724d4f96bba9413a9e6f371d/artifacts
+end_time: 1702140010684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ec28306724d4f96bba9413a9e6f371d
+run_name: orderly-skunk-809
+run_uuid: 6ec28306724d4f96bba9413a9e6f371d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140007927
+status: 3
+tags: []
+user_id: nico_

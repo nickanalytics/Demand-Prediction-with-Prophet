@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/2eaf249fad704415864fb11a50168ee7/artifacts
+end_time: 1702840201871
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 2eaf249fad704415864fb11a50168ee7
+run_name: selective-lamb-130
+run_uuid: 2eaf249fad704415864fb11a50168ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840199210
+status: 3
+tags: []
+user_id: nico_

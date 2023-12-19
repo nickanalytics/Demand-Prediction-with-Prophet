@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/1c77b8c8e30c4dd4a7dc86953b3b41e1/artifacts
+end_time: 1702140007679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c77b8c8e30c4dd4a7dc86953b3b41e1
+run_name: popular-crane-522
+run_uuid: 1c77b8c8e30c4dd4a7dc86953b3b41e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140004875
+status: 3
+tags: []
+user_id: nico_

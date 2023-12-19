@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/a64cb3f6e6c64d7ba72f47bdfde2e642/artifacts
+end_time: 1702840176839
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: a64cb3f6e6c64d7ba72f47bdfde2e642
+run_name: upbeat-fowl-827
+run_uuid: a64cb3f6e6c64d7ba72f47bdfde2e642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840174067
+status: 3
+tags: []
+user_id: nico_

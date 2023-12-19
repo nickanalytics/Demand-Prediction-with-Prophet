@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/fc7e707381054809bbf59972ec9c652b/artifacts
+end_time: 1702140023406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc7e707381054809bbf59972ec9c652b
+run_name: intrigued-shrike-160
+run_uuid: fc7e707381054809bbf59972ec9c652b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140020616
+status: 3
+tags: []
+user_id: nico_

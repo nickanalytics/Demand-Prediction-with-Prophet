@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/e26698de88fa418eb1a8d9b795721174/artifacts
+end_time: 1702140035747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e26698de88fa418eb1a8d9b795721174
+run_name: youthful-croc-134
+run_uuid: e26698de88fa418eb1a8d9b795721174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140032896
+status: 3
+tags: []
+user_id: nico_

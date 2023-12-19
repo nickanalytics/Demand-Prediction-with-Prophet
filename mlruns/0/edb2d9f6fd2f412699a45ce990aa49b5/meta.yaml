@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/edb2d9f6fd2f412699a45ce990aa49b5/artifacts
+end_time: 1702140047905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb2d9f6fd2f412699a45ce990aa49b5
+run_name: casual-dove-958
+run_uuid: edb2d9f6fd2f412699a45ce990aa49b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140045016
+status: 3
+tags: []
+user_id: nico_

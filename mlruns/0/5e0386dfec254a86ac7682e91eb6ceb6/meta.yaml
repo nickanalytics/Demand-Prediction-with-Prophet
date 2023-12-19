@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/5e0386dfec254a86ac7682e91eb6ceb6/artifacts
+end_time: 1702139770756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e0386dfec254a86ac7682e91eb6ceb6
+run_name: loud-squid-231
+run_uuid: 5e0386dfec254a86ac7682e91eb6ceb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139767862
+status: 3
+tags: []
+user_id: nico_

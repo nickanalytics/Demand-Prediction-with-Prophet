@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/06678b03a74242b28eb045f9667d50a8/artifacts
+end_time: 1702840104479
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 06678b03a74242b28eb045f9667d50a8
+run_name: luminous-moose-776
+run_uuid: 06678b03a74242b28eb045f9667d50a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840101104
+status: 3
+tags: []
+user_id: nico_

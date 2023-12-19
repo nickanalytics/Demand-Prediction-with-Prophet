@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/a811f041bb054f3f841ce5878cd2a3be/artifacts
+end_time: 1702140038647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a811f041bb054f3f841ce5878cd2a3be
+run_name: unruly-horse-119
+run_uuid: a811f041bb054f3f841ce5878cd2a3be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140035990
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/e622b9456cf8442f8d2d87ca9b826bb3/artifacts
+end_time: 1702839881788
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: e622b9456cf8442f8d2d87ca9b826bb3
+run_name: placid-roo-485
+run_uuid: e622b9456cf8442f8d2d87ca9b826bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839878896
+status: 3
+tags: []
+user_id: nico_

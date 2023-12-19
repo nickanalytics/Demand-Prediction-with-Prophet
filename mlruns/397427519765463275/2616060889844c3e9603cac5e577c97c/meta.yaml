@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/2616060889844c3e9603cac5e577c97c/artifacts
+end_time: 1702840029016
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 2616060889844c3e9603cac5e577c97c
+run_name: stately-hen-939
+run_uuid: 2616060889844c3e9603cac5e577c97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840026095
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/b7af2215c7944cfa9eea90eec438208a/artifacts
+end_time: 1702140017248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7af2215c7944cfa9eea90eec438208a
+run_name: nosy-swan-482
+run_uuid: b7af2215c7944cfa9eea90eec438208a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140014238
+status: 3
+tags: []
+user_id: nico_

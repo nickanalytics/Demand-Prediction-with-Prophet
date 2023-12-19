@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/971de2fafb4f476ab20b5f5b8dbd0ae2/artifacts
+end_time: 1702840001670
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 971de2fafb4f476ab20b5f5b8dbd0ae2
+run_name: mercurial-slug-892
+run_uuid: 971de2fafb4f476ab20b5f5b8dbd0ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839998742
+status: 3
+tags: []
+user_id: nico_

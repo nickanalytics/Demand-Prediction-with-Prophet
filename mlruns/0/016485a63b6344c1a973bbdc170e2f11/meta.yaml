@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/016485a63b6344c1a973bbdc170e2f11/artifacts
+end_time: 1702139747344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 016485a63b6344c1a973bbdc170e2f11
+run_name: serious-fish-38
+run_uuid: 016485a63b6344c1a973bbdc170e2f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139744483
+status: 3
+tags: []
+user_id: nico_

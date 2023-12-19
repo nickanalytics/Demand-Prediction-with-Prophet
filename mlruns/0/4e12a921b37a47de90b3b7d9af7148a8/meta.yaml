@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/4e12a921b37a47de90b3b7d9af7148a8/artifacts
+end_time: 1702139844868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e12a921b37a47de90b3b7d9af7148a8
+run_name: whimsical-sloth-743
+run_uuid: 4e12a921b37a47de90b3b7d9af7148a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139842213
+status: 3
+tags: []
+user_id: nico_

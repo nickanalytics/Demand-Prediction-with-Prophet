@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/17cac6f52f9440df99cbd4a3aff75246/artifacts
+end_time: 1702840221883
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 17cac6f52f9440df99cbd4a3aff75246
+run_name: silent-penguin-620
+run_uuid: 17cac6f52f9440df99cbd4a3aff75246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840219104
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/2b8d7a7c30b84b4a962d567b9ccbf934/artifacts
+end_time: 1702840018938
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 2b8d7a7c30b84b4a962d567b9ccbf934
+run_name: fun-vole-772
+run_uuid: 2b8d7a7c30b84b4a962d567b9ccbf934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840016110
+status: 3
+tags: []
+user_id: nico_

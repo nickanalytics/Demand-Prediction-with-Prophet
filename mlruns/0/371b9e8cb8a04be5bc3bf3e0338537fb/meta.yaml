@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/371b9e8cb8a04be5bc3bf3e0338537fb/artifacts
+end_time: 1702139947056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 371b9e8cb8a04be5bc3bf3e0338537fb
+run_name: gaudy-mole-193
+run_uuid: 371b9e8cb8a04be5bc3bf3e0338537fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139944064
+status: 3
+tags: []
+user_id: nico_

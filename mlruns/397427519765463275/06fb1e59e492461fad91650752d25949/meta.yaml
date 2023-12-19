@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/06fb1e59e492461fad91650752d25949/artifacts
+end_time: 1702840163618
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 06fb1e59e492461fad91650752d25949
+run_name: polite-stag-405
+run_uuid: 06fb1e59e492461fad91650752d25949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840160190
+status: 3
+tags: []
+user_id: nico_

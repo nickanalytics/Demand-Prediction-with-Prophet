@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/1b4d301c0a864b60934cb1d0a4c5ee53/artifacts
+end_time: 1702839961497
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 1b4d301c0a864b60934cb1d0a4c5ee53
+run_name: flawless-pug-759
+run_uuid: 1b4d301c0a864b60934cb1d0a4c5ee53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839958689
+status: 3
+tags: []
+user_id: nico_

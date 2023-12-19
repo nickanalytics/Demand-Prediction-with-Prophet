@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/f56bf14402584673970c65e59d48eb7c/artifacts
+end_time: 1702139687394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f56bf14402584673970c65e59d48eb7c
+run_name: skittish-crow-103
+run_uuid: f56bf14402584673970c65e59d48eb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139684412
+status: 3
+tags: []
+user_id: nico_

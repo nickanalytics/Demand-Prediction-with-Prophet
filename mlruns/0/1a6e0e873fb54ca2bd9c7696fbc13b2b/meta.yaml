@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/1a6e0e873fb54ca2bd9c7696fbc13b2b/artifacts
+end_time: 1702139720107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a6e0e873fb54ca2bd9c7696fbc13b2b
+run_name: skillful-owl-70
+run_uuid: 1a6e0e873fb54ca2bd9c7696fbc13b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139717347
+status: 3
+tags: []
+user_id: nico_

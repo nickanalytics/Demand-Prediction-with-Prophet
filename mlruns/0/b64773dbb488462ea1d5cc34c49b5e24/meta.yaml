@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/b64773dbb488462ea1d5cc34c49b5e24/artifacts
+end_time: 1702139943832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b64773dbb488462ea1d5cc34c49b5e24
+run_name: able-seal-880
+run_uuid: b64773dbb488462ea1d5cc34c49b5e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139940988
+status: 3
+tags: []
+user_id: nico_

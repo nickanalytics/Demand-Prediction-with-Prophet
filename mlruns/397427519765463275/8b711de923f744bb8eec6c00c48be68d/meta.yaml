@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/8b711de923f744bb8eec6c00c48be68d/artifacts
+end_time: 1702840218954
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 8b711de923f744bb8eec6c00c48be68d
+run_name: unleashed-ram-798
+run_uuid: 8b711de923f744bb8eec6c00c48be68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840216361
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/6a30de8bfd9b4f409ae7b24c660b2666/artifacts
+end_time: 1702139889058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a30de8bfd9b4f409ae7b24c660b2666
+run_name: aged-rook-289
+run_uuid: 6a30de8bfd9b4f409ae7b24c660b2666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139886125
+status: 3
+tags: []
+user_id: nico_

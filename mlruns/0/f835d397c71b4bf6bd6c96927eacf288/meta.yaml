@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/f835d397c71b4bf6bd6c96927eacf288/artifacts
+end_time: 1702139861384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f835d397c71b4bf6bd6c96927eacf288
+run_name: stylish-wolf-310
+run_uuid: f835d397c71b4bf6bd6c96927eacf288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139858637
+status: 3
+tags: []
+user_id: nico_

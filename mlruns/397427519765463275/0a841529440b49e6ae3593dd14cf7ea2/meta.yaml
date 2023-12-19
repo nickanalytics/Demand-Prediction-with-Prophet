@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/0a841529440b49e6ae3593dd14cf7ea2/artifacts
+end_time: 1702839868368
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 0a841529440b49e6ae3593dd14cf7ea2
+run_name: exultant-croc-181
+run_uuid: 0a841529440b49e6ae3593dd14cf7ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839864784
+status: 3
+tags: []
+user_id: nico_

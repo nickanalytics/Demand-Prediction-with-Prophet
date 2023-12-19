@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/038c733cd7cf4925a8d83b061e711b7a/artifacts
+end_time: 1702139693604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 038c733cd7cf4925a8d83b061e711b7a
+run_name: unique-gull-240
+run_uuid: 038c733cd7cf4925a8d83b061e711b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139690939
+status: 3
+tags: []
+user_id: nico_

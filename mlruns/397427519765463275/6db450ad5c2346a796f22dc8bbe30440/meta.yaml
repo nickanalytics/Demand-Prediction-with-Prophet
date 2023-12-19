@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/6db450ad5c2346a796f22dc8bbe30440/artifacts
+end_time: 1702839885130
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 6db450ad5c2346a796f22dc8bbe30440
+run_name: welcoming-yak-150
+run_uuid: 6db450ad5c2346a796f22dc8bbe30440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839882215
+status: 3
+tags: []
+user_id: nico_

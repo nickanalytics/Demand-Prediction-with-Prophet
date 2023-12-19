@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/094e6064ee08472ab6aba2544eab292b/artifacts
+end_time: 1702139791109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094e6064ee08472ab6aba2544eab292b
+run_name: unequaled-steed-685
+run_uuid: 094e6064ee08472ab6aba2544eab292b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139788065
+status: 3
+tags: []
+user_id: nico_

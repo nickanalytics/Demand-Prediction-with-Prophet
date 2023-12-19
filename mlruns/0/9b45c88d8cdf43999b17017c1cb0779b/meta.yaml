@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/9b45c88d8cdf43999b17017c1cb0779b/artifacts
+end_time: 1702139930484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b45c88d8cdf43999b17017c1cb0779b
+run_name: bittersweet-fox-761
+run_uuid: 9b45c88d8cdf43999b17017c1cb0779b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139927764
+status: 3
+tags: []
+user_id: nico_

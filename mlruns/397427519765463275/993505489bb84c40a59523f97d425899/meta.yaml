@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/993505489bb84c40a59523f97d425899/artifacts
+end_time: 1702840046934
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 993505489bb84c40a59523f97d425899
+run_name: loud-fawn-537
+run_uuid: 993505489bb84c40a59523f97d425899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840043376
+status: 3
+tags: []
+user_id: nico_

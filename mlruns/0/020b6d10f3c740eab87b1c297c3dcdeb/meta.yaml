@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/020b6d10f3c740eab87b1c297c3dcdeb/artifacts
+end_time: 1702140004675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020b6d10f3c740eab87b1c297c3dcdeb
+run_name: stately-foal-152
+run_uuid: 020b6d10f3c740eab87b1c297c3dcdeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140001885
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/a323d962ff544e5e8543e9acce252131/artifacts
+end_time: 1702840132728
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: a323d962ff544e5e8543e9acce252131
+run_name: adventurous-hare-713
+run_uuid: a323d962ff544e5e8543e9acce252131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840130151
+status: 3
+tags: []
+user_id: nico_

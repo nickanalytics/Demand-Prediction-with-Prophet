@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/ad3cca37f1ae4392936124fd2b16fab3/artifacts
+end_time: 1702139994974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad3cca37f1ae4392936124fd2b16fab3
+run_name: rebellious-quail-670
+run_uuid: ad3cca37f1ae4392936124fd2b16fab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139992286
+status: 3
+tags: []
+user_id: nico_

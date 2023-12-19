@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/dbe54bcc19e04a07bb90c78b592fbb92/artifacts
+end_time: 1702839925018
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: dbe54bcc19e04a07bb90c78b592fbb92
+run_name: judicious-shoat-906
+run_uuid: dbe54bcc19e04a07bb90c78b592fbb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839922215
+status: 3
+tags: []
+user_id: nico_

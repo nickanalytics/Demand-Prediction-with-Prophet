@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/cb44f59c5ea4414a9fb6efacc7ab0fb1/artifacts
+end_time: 1702839978217
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: cb44f59c5ea4414a9fb6efacc7ab0fb1
+run_name: big-bat-768
+run_uuid: cb44f59c5ea4414a9fb6efacc7ab0fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839975332
+status: 3
+tags: []
+user_id: nico_

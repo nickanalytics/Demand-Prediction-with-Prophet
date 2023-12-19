@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/06f31086640a4886857eab5358692846/artifacts
+end_time: 1702839928333
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 06f31086640a4886857eab5358692846
+run_name: suave-ray-626
+run_uuid: 06f31086640a4886857eab5358692846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839925420
+status: 3
+tags: []
+user_id: nico_

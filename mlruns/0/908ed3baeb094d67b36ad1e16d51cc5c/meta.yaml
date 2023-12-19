@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/908ed3baeb094d67b36ad1e16d51cc5c/artifacts
+end_time: 1702140013963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 908ed3baeb094d67b36ad1e16d51cc5c
+run_name: whimsical-fowl-430
+run_uuid: 908ed3baeb094d67b36ad1e16d51cc5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140010914
+status: 3
+tags: []
+user_id: nico_

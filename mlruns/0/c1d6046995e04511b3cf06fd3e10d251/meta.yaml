@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/c1d6046995e04511b3cf06fd3e10d251/artifacts
+end_time: 1702139733515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1d6046995e04511b3cf06fd3e10d251
+run_name: glamorous-goat-50
+run_uuid: c1d6046995e04511b3cf06fd3e10d251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139730733
+status: 3
+tags: []
+user_id: nico_

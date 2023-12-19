@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/8e8918c702df487d8e5117de4b17b6cb/artifacts
+end_time: 1702139777421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e8918c702df487d8e5117de4b17b6cb
+run_name: crawling-skink-695
+run_uuid: 8e8918c702df487d8e5117de4b17b6cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139774484
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/c612ec5d6b30495e8ef91aa6e4b2536f/artifacts
+end_time: 1702139871629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c612ec5d6b30495e8ef91aa6e4b2536f
+run_name: respected-loon-354
+run_uuid: c612ec5d6b30495e8ef91aa6e4b2536f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139868742
+status: 3
+tags: []
+user_id: nico_

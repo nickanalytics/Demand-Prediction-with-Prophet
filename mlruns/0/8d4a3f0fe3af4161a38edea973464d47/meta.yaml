@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/8d4a3f0fe3af4161a38edea973464d47/artifacts
+end_time: 1702139716946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d4a3f0fe3af4161a38edea973464d47
+run_name: classy-fawn-468
+run_uuid: 8d4a3f0fe3af4161a38edea973464d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139714130
+status: 3
+tags: []
+user_id: nico_

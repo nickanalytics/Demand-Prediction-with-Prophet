@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/7152f945547f4a6783447d2f1cd1f44e/artifacts
+end_time: 1702840153110
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 7152f945547f4a6783447d2f1cd1f44e
+run_name: salty-hog-480
+run_uuid: 7152f945547f4a6783447d2f1cd1f44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840149840
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/4e3df3310da047c1b7d64a438af231dc/artifacts
+end_time: 1702139828788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e3df3310da047c1b7d64a438af231dc
+run_name: masked-snake-568
+run_uuid: 4e3df3310da047c1b7d64a438af231dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139825943
+status: 3
+tags: []
+user_id: nico_

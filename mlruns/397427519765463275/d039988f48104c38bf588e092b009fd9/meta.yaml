@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/d039988f48104c38bf588e092b009fd9/artifacts
+end_time: 1702840039121
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: d039988f48104c38bf588e092b009fd9
+run_name: calm-deer-398
+run_uuid: d039988f48104c38bf588e092b009fd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840036024
+status: 3
+tags: []
+user_id: nico_

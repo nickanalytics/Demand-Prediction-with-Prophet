@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/18dcbebc771943ed8c6dbff6e1c99d9d/artifacts
+end_time: 1702840139797
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 18dcbebc771943ed8c6dbff6e1c99d9d
+run_name: rumbling-ox-432
+run_uuid: 18dcbebc771943ed8c6dbff6e1c99d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840136241
+status: 3
+tags: []
+user_id: nico_

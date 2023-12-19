@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/0cb28df911cb4139914d7250a1f33f77/artifacts
+end_time: 1702139710324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cb28df911cb4139914d7250a1f33f77
+run_name: wise-mule-904
+run_uuid: 0cb28df911cb4139914d7250a1f33f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139707444
+status: 3
+tags: []
+user_id: nico_

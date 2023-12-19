@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/f71d173b52bd453ebf3c4dabd153b824/artifacts
+end_time: 1702840199062
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: f71d173b52bd453ebf3c4dabd153b824
+run_name: aged-dolphin-749
+run_uuid: f71d173b52bd453ebf3c4dabd153b824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840196338
+status: 3
+tags: []
+user_id: nico_

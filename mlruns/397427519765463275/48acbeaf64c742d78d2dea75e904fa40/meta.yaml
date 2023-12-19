@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/48acbeaf64c742d78d2dea75e904fa40/artifacts
+end_time: 1702839875313
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 48acbeaf64c742d78d2dea75e904fa40
+run_name: abundant-finch-316
+run_uuid: 48acbeaf64c742d78d2dea75e904fa40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839872375
+status: 3
+tags: []
+user_id: nico_

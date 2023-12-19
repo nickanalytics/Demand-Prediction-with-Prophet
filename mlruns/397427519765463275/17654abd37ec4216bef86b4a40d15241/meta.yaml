@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/17654abd37ec4216bef86b4a40d15241/artifacts
+end_time: 1702839955053
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 17654abd37ec4216bef86b4a40d15241
+run_name: able-newt-283
+run_uuid: 17654abd37ec4216bef86b4a40d15241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839952079
+status: 3
+tags: []
+user_id: nico_

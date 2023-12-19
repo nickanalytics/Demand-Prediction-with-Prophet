@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/b9ff247562f6407e9983092d46fa4f58/artifacts
+end_time: 1702839971658
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: b9ff247562f6407e9983092d46fa4f58
+run_name: loud-flea-905
+run_uuid: b9ff247562f6407e9983092d46fa4f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839968854
+status: 3
+tags: []
+user_id: nico_

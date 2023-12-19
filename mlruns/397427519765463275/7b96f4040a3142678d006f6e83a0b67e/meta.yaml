@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/7b96f4040a3142678d006f6e83a0b67e/artifacts
+end_time: 1702840117149
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 7b96f4040a3142678d006f6e83a0b67e
+run_name: sassy-snail-171
+run_uuid: 7b96f4040a3142678d006f6e83a0b67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840114320
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/9a67cef85a314a7d96583302d192336c/artifacts
+end_time: 1702139744022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a67cef85a314a7d96583302d192336c
+run_name: rebellious-auk-613
+run_uuid: 9a67cef85a314a7d96583302d192336c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139741003
+status: 3
+tags: []
+user_id: nico_

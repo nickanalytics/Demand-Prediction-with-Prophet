@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/bcd5b0a52af842da800cd01813dc3ea7/artifacts
+end_time: 1702139700106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcd5b0a52af842da800cd01813dc3ea7
+run_name: orderly-panda-580
+run_uuid: bcd5b0a52af842da800cd01813dc3ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139697358
+status: 3
+tags: []
+user_id: nico_

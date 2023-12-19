@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/b100b4725a884554b08fe56051570670/artifacts
+end_time: 1702840059975
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: b100b4725a884554b08fe56051570670
+run_name: orderly-snake-228
+run_uuid: b100b4725a884554b08fe56051570670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840057058
+status: 3
+tags: []
+user_id: nico_

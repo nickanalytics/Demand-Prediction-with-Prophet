@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/67ec018516294eadbf74bf5f92114a8b/artifacts
+end_time: 1702139838602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ec018516294eadbf74bf5f92114a8b
+run_name: unruly-hound-646
+run_uuid: 67ec018516294eadbf74bf5f92114a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139835886
+status: 3
+tags: []
+user_id: nico_

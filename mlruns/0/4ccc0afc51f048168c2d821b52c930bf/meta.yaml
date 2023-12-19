@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/4ccc0afc51f048168c2d821b52c930bf/artifacts
+end_time: 1702140054143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ccc0afc51f048168c2d821b52c930bf
+run_name: beautiful-crane-858
+run_uuid: 4ccc0afc51f048168c2d821b52c930bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702140051395
+status: 3
+tags: []
+user_id: nico_

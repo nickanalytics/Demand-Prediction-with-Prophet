@@ -1,0 +1,18 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.11.5
+- pip<=23.3.1
+- pip:
+  - mlflow==2.8.1
+  - cffi==1.16.0
+  - cloudpickle==2.2.1
+  - defusedxml==0.7.1
+  - ipython==8.15.0
+  - matplotlib==3.8.0
+  - numpy==1.26.2
+  - packaging==23.2
+  - pandas==2.1.1
+  - plotly==5.18.0
+  - prophet==1.1.5
+name: mlflow-env

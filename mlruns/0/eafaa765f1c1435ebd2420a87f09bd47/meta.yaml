@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/eafaa765f1c1435ebd2420a87f09bd47/artifacts
+end_time: 1702139956470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eafaa765f1c1435ebd2420a87f09bd47
+run_name: agreeable-yak-310
+run_uuid: eafaa765f1c1435ebd2420a87f09bd47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139953622
+status: 3
+tags: []
+user_id: nico_

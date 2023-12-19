@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/a3fd89eed3d947da8476d46f022e297b/artifacts
+end_time: 1702839888260
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: a3fd89eed3d947da8476d46f022e297b
+run_name: worried-loon-843
+run_uuid: a3fd89eed3d947da8476d46f022e297b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839885458
+status: 3
+tags: []
+user_id: nico_

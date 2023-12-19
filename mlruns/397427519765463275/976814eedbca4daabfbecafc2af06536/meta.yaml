@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/976814eedbca4daabfbecafc2af06536/artifacts
+end_time: 1702839908392
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 976814eedbca4daabfbecafc2af06536
+run_name: flawless-shrike-324
+run_uuid: 976814eedbca4daabfbecafc2af06536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839905565
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/ee67e97c427748a586f6f05ec304255f/artifacts
+end_time: 1702840110723
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: ee67e97c427748a586f6f05ec304255f
+run_name: clean-rook-875
+run_uuid: ee67e97c427748a586f6f05ec304255f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840107908
+status: 3
+tags: []
+user_id: nico_

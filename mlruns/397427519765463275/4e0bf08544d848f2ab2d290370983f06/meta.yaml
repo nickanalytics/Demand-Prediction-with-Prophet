@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/4e0bf08544d848f2ab2d290370983f06/artifacts
+end_time: 1702840070750
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 4e0bf08544d848f2ab2d290370983f06
+run_name: awesome-roo-152
+run_uuid: 4e0bf08544d848f2ab2d290370983f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840067957
+status: 3
+tags: []
+user_id: nico_

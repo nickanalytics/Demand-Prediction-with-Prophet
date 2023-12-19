@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/9d3df8d97484490c953d7e6a652e7c79/artifacts
+end_time: 1702139911922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d3df8d97484490c953d7e6a652e7c79
+run_name: bald-quail-224
+run_uuid: 9d3df8d97484490c953d7e6a652e7c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139909230
+status: 3
+tags: []
+user_id: nico_

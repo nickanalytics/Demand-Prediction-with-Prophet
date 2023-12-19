@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/ae07dadb6475466bbc4a49e1fd12985f/artifacts
+end_time: 1702839951646
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: ae07dadb6475466bbc4a49e1fd12985f
+run_name: casual-midge-362
+run_uuid: ae07dadb6475466bbc4a49e1fd12985f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839948828
+status: 3
+tags: []
+user_id: nico_

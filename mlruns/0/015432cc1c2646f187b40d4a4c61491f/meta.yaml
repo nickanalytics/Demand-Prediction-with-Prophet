@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/015432cc1c2646f187b40d4a4c61491f/artifacts
+end_time: 1702139921128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 015432cc1c2646f187b40d4a4c61491f
+run_name: loud-hawk-495
+run_uuid: 015432cc1c2646f187b40d4a4c61491f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139918200
+status: 3
+tags: []
+user_id: nico_

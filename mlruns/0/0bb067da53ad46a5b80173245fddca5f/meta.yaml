@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/0bb067da53ad46a5b80173245fddca5f/artifacts
+end_time: 1702139730170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bb067da53ad46a5b80173245fddca5f
+run_name: bald-snake-789
+run_uuid: 0bb067da53ad46a5b80173245fddca5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139727133
+status: 3
+tags: []
+user_id: nico_

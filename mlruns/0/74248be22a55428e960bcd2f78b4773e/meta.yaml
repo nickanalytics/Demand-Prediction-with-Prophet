@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/74248be22a55428e960bcd2f78b4773e/artifacts
+end_time: 1702139868087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74248be22a55428e960bcd2f78b4773e
+run_name: merciful-mole-996
+run_uuid: 74248be22a55428e960bcd2f78b4773e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139865241
+status: 3
+tags: []
+user_id: nico_

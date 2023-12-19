@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/74c36755973e44789ca6442bc95db99c/artifacts
+end_time: 1702840042955
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 74c36755973e44789ca6442bc95db99c
+run_name: dashing-hen-167
+run_uuid: 74c36755973e44789ca6442bc95db99c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840039610
+status: 3
+tags: []
+user_id: nico_

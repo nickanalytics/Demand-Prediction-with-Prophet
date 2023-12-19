@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/19568a5992244629bf4e27b5a668887e/artifacts
+end_time: 1702840196192
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 19568a5992244629bf4e27b5a668887e
+run_name: bittersweet-panda-29
+run_uuid: 19568a5992244629bf4e27b5a668887e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840193368
+status: 3
+tags: []
+user_id: nico_

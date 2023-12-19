@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/5ab57e11e66a4e8497b95bb289753302/artifacts
+end_time: 1702139858168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ab57e11e66a4e8497b95bb289753302
+run_name: receptive-moose-860
+run_uuid: 5ab57e11e66a4e8497b95bb289753302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139855200
+status: 3
+tags: []
+user_id: nico_

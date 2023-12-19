@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/c339192a20564ac2b335aabafabd37ae/artifacts
+end_time: 1702139706926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c339192a20564ac2b335aabafabd37ae
+run_name: rogue-sponge-11
+run_uuid: c339192a20564ac2b335aabafabd37ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139703887
+status: 3
+tags: []
+user_id: nico_

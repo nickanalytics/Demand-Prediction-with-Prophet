@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/9d4b1ea4f18948aaa389093d6b640b5f/artifacts
+end_time: 1702840166968
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 9d4b1ea4f18948aaa389093d6b640b5f
+run_name: traveling-tern-562
+run_uuid: 9d4b1ea4f18948aaa389093d6b640b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840163874
+status: 3
+tags: []
+user_id: nico_

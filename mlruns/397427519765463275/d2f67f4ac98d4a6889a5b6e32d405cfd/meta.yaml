@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/d2f67f4ac98d4a6889a5b6e32d405cfd/artifacts
+end_time: 1702840091280
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: d2f67f4ac98d4a6889a5b6e32d405cfd
+run_name: peaceful-fowl-596
+run_uuid: d2f67f4ac98d4a6889a5b6e32d405cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840088447
+status: 3
+tags: []
+user_id: nico_

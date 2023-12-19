@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/9ff49b1d181f467db2bfa7c2e38ed9b9/artifacts
+end_time: 1702139801665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff49b1d181f467db2bfa7c2e38ed9b9
+run_name: casual-shad-684
+run_uuid: 9ff49b1d181f467db2bfa7c2e38ed9b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139798635
+status: 3
+tags: []
+user_id: nico_

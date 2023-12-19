@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/eb312c1575fa44dd94342b0316595b40/artifacts
+end_time: 1702840190136
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: eb312c1575fa44dd94342b0316595b40
+run_name: rebellious-pig-713
+run_uuid: eb312c1575fa44dd94342b0316595b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840186906
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/6fd46eb8054547ac94a35c7badbc15a9/artifacts
+end_time: 1702139764078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd46eb8054547ac94a35c7badbc15a9
+run_name: polite-turtle-541
+run_uuid: 6fd46eb8054547ac94a35c7badbc15a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139761280
+status: 3
+tags: []
+user_id: nico_

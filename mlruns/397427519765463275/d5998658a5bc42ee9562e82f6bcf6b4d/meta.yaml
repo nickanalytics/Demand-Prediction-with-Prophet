@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/d5998658a5bc42ee9562e82f6bcf6b4d/artifacts
+end_time: 1702839911641
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: d5998658a5bc42ee9562e82f6bcf6b4d
+run_name: upset-pig-716
+run_uuid: d5998658a5bc42ee9562e82f6bcf6b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839908804
+status: 3
+tags: []
+user_id: nico_

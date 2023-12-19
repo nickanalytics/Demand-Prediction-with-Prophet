@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/292fcdadf239490585af8df46104cc24/artifacts
+end_time: 1702840156708
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 292fcdadf239490585af8df46104cc24
+run_name: mysterious-lamb-354
+run_uuid: 292fcdadf239490585af8df46104cc24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840153367
+status: 3
+tags: []
+user_id: nico_

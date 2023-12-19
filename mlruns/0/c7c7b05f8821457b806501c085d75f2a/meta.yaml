@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/c7c7b05f8821457b806501c085d75f2a/artifacts
+end_time: 1702139774025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7c7b05f8821457b806501c085d75f2a
+run_name: receptive-cub-487
+run_uuid: c7c7b05f8821457b806501c085d75f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139771243
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/2a84adbdb06243ef95c3eeec73227747/artifacts
+end_time: 1702139917971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a84adbdb06243ef95c3eeec73227747
+run_name: caring-foal-884
+run_uuid: 2a84adbdb06243ef95c3eeec73227747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139915214
+status: 3
+tags: []
+user_id: nico_

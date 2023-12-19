@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/290e62bb806742fcad5e60d8dad81557/artifacts
+end_time: 1702139992074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 290e62bb806742fcad5e60d8dad81557
+run_name: gentle-skunk-544
+run_uuid: 290e62bb806742fcad5e60d8dad81557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139989225
+status: 3
+tags: []
+user_id: nico_

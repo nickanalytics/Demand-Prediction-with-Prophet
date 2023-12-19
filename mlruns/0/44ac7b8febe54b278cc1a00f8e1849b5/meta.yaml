@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/44ac7b8febe54b278cc1a00f8e1849b5/artifacts
+end_time: 1702139696958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44ac7b8febe54b278cc1a00f8e1849b5
+run_name: auspicious-dog-146
+run_uuid: 44ac7b8febe54b278cc1a00f8e1849b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139693959
+status: 3
+tags: []
+user_id: nico_

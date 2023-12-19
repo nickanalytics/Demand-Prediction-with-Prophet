@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/3ecfe38bff824e8b8546b8a39b413c35/artifacts
+end_time: 1702840005110
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 3ecfe38bff824e8b8546b8a39b413c35
+run_name: burly-cat-340
+run_uuid: 3ecfe38bff824e8b8546b8a39b413c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840002021
+status: 3
+tags: []
+user_id: nico_

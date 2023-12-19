@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/3839153ae1574a8f922dfcd149c4159f/artifacts
+end_time: 1702139805176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3839153ae1574a8f922dfcd149c4159f
+run_name: mercurial-bee-469
+run_uuid: 3839153ae1574a8f922dfcd149c4159f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139802202
+status: 3
+tags: []
+user_id: nico_

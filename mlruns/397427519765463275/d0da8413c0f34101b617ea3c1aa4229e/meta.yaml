@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/d0da8413c0f34101b617ea3c1aa4229e/artifacts
+end_time: 1702840032148
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: d0da8413c0f34101b617ea3c1aa4229e
+run_name: omniscient-newt-213
+run_uuid: d0da8413c0f34101b617ea3c1aa4229e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840029394
+status: 3
+tags: []
+user_id: nico_

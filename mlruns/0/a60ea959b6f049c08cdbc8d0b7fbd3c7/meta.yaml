@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/a60ea959b6f049c08cdbc8d0b7fbd3c7/artifacts
+end_time: 1702139899281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a60ea959b6f049c08cdbc8d0b7fbd3c7
+run_name: honorable-midge-237
+run_uuid: a60ea959b6f049c08cdbc8d0b7fbd3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139896636
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/03c695f0190e42dca42e2fded2dccdaf/artifacts
+end_time: 1702839998394
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 03c695f0190e42dca42e2fded2dccdaf
+run_name: selective-dog-714
+run_uuid: 03c695f0190e42dca42e2fded2dccdaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839995177
+status: 3
+tags: []
+user_id: nico_

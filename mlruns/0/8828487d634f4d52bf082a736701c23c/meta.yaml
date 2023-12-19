@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/8828487d634f4d52bf082a736701c23c/artifacts
+end_time: 1702139940724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8828487d634f4d52bf082a736701c23c
+run_name: calm-gnu-709
+run_uuid: 8828487d634f4d52bf082a736701c23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139937663
+status: 3
+tags: []
+user_id: nico_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/e3cf83658d3f409b92ac37801c7d8632/artifacts
+end_time: 1702139988976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cf83658d3f409b92ac37801c7d8632
+run_name: dazzling-sheep-352
+run_uuid: e3cf83658d3f409b92ac37801c7d8632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139986257
+status: 3
+tags: []
+user_id: nico_

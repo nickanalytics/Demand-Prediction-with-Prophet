@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/aa3311ccf41f4d71ac300fb2e8e16689/artifacts
+end_time: 1702840129939
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: aa3311ccf41f4d71ac300fb2e8e16689
+run_name: unique-toad-772
+run_uuid: aa3311ccf41f4d71ac300fb2e8e16689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840127115
+status: 3
+tags: []
+user_id: nico_

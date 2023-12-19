@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/fc9e0b3117d84d1982e1018945e4daaf/artifacts
+end_time: 1702839878493
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: fc9e0b3117d84d1982e1018945e4daaf
+run_name: receptive-shoat-865
+run_uuid: fc9e0b3117d84d1982e1018945e4daaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839875674
+status: 3
+tags: []
+user_id: nico_

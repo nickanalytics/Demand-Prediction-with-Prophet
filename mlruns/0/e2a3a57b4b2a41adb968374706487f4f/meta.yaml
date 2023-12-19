@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/e2a3a57b4b2a41adb968374706487f4f/artifacts
+end_time: 1702139784116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2a3a57b4b2a41adb968374706487f4f
+run_name: suave-newt-576
+run_uuid: e2a3a57b4b2a41adb968374706487f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139781134
+status: 3
+tags: []
+user_id: nico_

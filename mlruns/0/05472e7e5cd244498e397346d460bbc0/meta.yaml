@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/05472e7e5cd244498e397346d460bbc0/artifacts
+end_time: 1702139892205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05472e7e5cd244498e397346d460bbc0
+run_name: serious-toad-251
+run_uuid: 05472e7e5cd244498e397346d460bbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139889444
+status: 3
+tags: []
+user_id: nico_

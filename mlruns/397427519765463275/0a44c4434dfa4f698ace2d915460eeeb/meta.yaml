@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/0a44c4434dfa4f698ace2d915460eeeb/artifacts
+end_time: 1702840022320
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 0a44c4434dfa4f698ace2d915460eeeb
+run_name: debonair-tern-839
+run_uuid: 0a44c4434dfa4f698ace2d915460eeeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840019340
+status: 3
+tags: []
+user_id: nico_

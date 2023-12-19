@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/93a6c13694d5417eb95c5a5047c0ce58/artifacts
+end_time: 1702840236887
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 93a6c13694d5417eb95c5a5047c0ce58
+run_name: rumbling-snail-431
+run_uuid: 93a6c13694d5417eb95c5a5047c0ce58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840233990
+status: 3
+tags: []
+user_id: nico_

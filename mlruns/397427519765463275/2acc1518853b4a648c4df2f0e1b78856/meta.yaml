@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/2acc1518853b4a648c4df2f0e1b78856/artifacts
+end_time: 1702839894991
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 2acc1518853b4a648c4df2f0e1b78856
+run_name: capable-stag-38
+run_uuid: 2acc1518853b4a648c4df2f0e1b78856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702839891994
+status: 3
+tags: []
+user_id: nico_

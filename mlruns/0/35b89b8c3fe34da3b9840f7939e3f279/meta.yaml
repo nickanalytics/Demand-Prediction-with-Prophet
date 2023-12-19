@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/35b89b8c3fe34da3b9840f7939e3f279/artifacts
+end_time: 1702139982810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35b89b8c3fe34da3b9840f7939e3f279
+run_name: masked-ram-45
+run_uuid: 35b89b8c3fe34da3b9840f7939e3f279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139980125
+status: 3
+tags: []
+user_id: nico_

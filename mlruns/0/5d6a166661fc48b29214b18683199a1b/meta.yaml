@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/5d6a166661fc48b29214b18683199a1b/artifacts
+end_time: 1702139825396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d6a166661fc48b29214b18683199a1b
+run_name: rumbling-fly-426
+run_uuid: 5d6a166661fc48b29214b18683199a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139822245
+status: 3
+tags: []
+user_id: nico_

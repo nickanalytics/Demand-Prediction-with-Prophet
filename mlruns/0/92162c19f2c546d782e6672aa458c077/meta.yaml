@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/92162c19f2c546d782e6672aa458c077/artifacts
+end_time: 1702139848125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92162c19f2c546d782e6672aa458c077
+run_name: suave-steed-177
+run_uuid: 92162c19f2c546d782e6672aa458c077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139845236
+status: 3
+tags: []
+user_id: nico_

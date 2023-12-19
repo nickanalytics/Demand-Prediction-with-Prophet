@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/43aa5b4d81f44debbdeb026ce245474f/artifacts
+end_time: 1702139864752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43aa5b4d81f44debbdeb026ce245474f
+run_name: luxuriant-whale-889
+run_uuid: 43aa5b4d81f44debbdeb026ce245474f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139861829
+status: 3
+tags: []
+user_id: nico_

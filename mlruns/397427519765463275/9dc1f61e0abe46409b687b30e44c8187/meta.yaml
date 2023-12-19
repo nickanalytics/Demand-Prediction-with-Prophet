@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/397427519765463275/9dc1f61e0abe46409b687b30e44c8187/artifacts
+end_time: 1702840224805
+entry_point_name: ''
+experiment_id: '397427519765463275'
+lifecycle_stage: active
+run_id: 9dc1f61e0abe46409b687b30e44c8187
+run_name: illustrious-vole-527
+run_uuid: 9dc1f61e0abe46409b687b30e44c8187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702840222011
+status: 3
+tags: []
+user_id: nico_

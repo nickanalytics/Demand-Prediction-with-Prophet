@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nico_/OneDrive/Portfolio/Stock%20Level%20Predictions/mlruns/0/2a7dba82b7184bbfa15f3fac9ba3ed2b/artifacts
+end_time: 1702139723251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a7dba82b7184bbfa15f3fac9ba3ed2b
+run_name: rumbling-fawn-29
+run_uuid: 2a7dba82b7184bbfa15f3fac9ba3ed2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702139720530
+status: 3
+tags: []
+user_id: nico_
